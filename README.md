@@ -86,4 +86,4 @@ python test.py --rate 0.1 --GPU 0
 * After that, the reconstructed images, PSNR and SSIM results will be saved to `./reconstructed_images/`.  
 ## End ##  
 
-We appreciate your reading and attention. For more details about TCS-Net, please refer to our paper.  And, please feel free to contect us: shen65536@mail.nwpu.edu.cn
+We appreciate your reading and attention. For more details about TCS-Net, please refer to our paper.  And, please feel free to contact us: shen65536@mail.nwpu.edu.cn
